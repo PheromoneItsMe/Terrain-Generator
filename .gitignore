@@ -1,0 +1,30 @@
+# Blender files
+*.blend1
+*.blend2
+*.blend@
+
+# Python cache & bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Local cache & data downloads
+cache/
+*.tmp
+*.csv.gz
+
+# OS specific
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE & Editor folders
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Build & Archives
+*.zip
+dist/
+build/
